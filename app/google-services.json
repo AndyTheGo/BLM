@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929383728373",
+    "firebase_url": "https://blmfirebaseproject.firebaseio.com",
+    "project_id": "blmfirebaseproject",
+    "storage_bucket": "blmfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929383728373:android:fe53a68685f1c8370471bc",
+        "android_client_info": {
+          "package_name": "com.example.blm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929383728373-r5j802c7csgqschpb04hkppt9gjjeidj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blm",
+            "certificate_hash": "d45b19b5ead2e0a8271bd3a155c9ebb7f933e64d"
+          }
+        },
+        {
+          "client_id": "929383728373-tvu8m9qek2686j88vfiaad19m9a5ae77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBlFFecbwzkmO6wIqayIpGvRUkXlqZW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929383728373-tvu8m9qek2686j88vfiaad19m9a5ae77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
